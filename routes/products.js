@@ -23,6 +23,9 @@ router.get("/allproducts", (req, res) => {
         { id: 18, name: 'product-18', imgPath, price: 18, isNew: true, description: 'lorem ipsum lorem cosmeteics' },
         { id: 19, name: 'product-19', imgPath, price: 19, isNew: true, description: 'lorem ipsum lorem cosmeteics' }
     ]
+
+
+    // t3adeeeeeeeeeeeeeeeeeeeeeeeeeeel
     res.send(products);
 });
 
