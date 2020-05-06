@@ -21,7 +21,8 @@ router.get("/allproducts", (req, res) => {
         { id: 16, name: 'product-16', imgPath, price: 16, isNew: true, description: 'lorem ipsum lorem cosmeteics' },
         { id: 17, name: 'product-17', imgPath, price: 17, isNew: true, description: 'lorem ipsum lorem cosmeteics' },
         { id: 18, name: 'product-18', imgPath, price: 18, isNew: true, description: 'lorem ipsum lorem cosmeteics' },
-        { id: 19, name: 'product-19', imgPath, price: 19, isNew: true, description: 'lorem ipsum lorem cosmeteics' }
+        { id: 19, name: 'product-19', imgPath, price: 19, isNew: true, description: 'lorem ipsum lorem cosmeteics' },
+        { id: 20, name: 'product-20', imgPath, price: 20, isNew: true, description: 'lorem ipsum lorem cosmeteics' },
     ]
 
 
